@@ -572,6 +572,27 @@ h3.my-profession
     color: var(--text-black-700);
 }
 /* service */
+.imagemm{
+    height: 300px;
+    width: 500px;
+    border-radius: 5%;
+    
+}
+.imagemm1{
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    left: 600px;
+    border-radius: 5%; 
+}
+.imagemm2{
+    position: absolute;
+    height: 300px;
+    width: 520px;
+    top: 350px;
+    right: 600px;
+    border-radius: 5%;
+}
 .service .container
 {
     padding-bottom: 40px;
