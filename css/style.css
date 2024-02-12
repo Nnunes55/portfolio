@@ -593,6 +593,21 @@ h3.my-profession
     right: 600px;
     border-radius: 5%;
 }
+.imagemm3{
+    position: absolute;
+    height: 300px;
+    width: 520px;
+    top: 350px;
+    right: 8px;
+    border-radius: 5%;
+}
+video{
+    position: absolute;
+    width: 700px;
+    height: 500px;
+    top: 800px;
+    left: 200px;
+}
 .service .container
 {
     padding-bottom: 40px;
