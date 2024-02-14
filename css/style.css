@@ -583,7 +583,12 @@ h3.my-profession
     height: 300px;
     width: 500px;
     left: 600px;
+    top: 48px;
     border-radius: 5%; 
+}
+.para22{
+    position: absolute;
+    left: 600px;
 }
 .imagemm2{
     position: absolute;
