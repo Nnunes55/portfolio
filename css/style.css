@@ -601,7 +601,7 @@ h3.my-profession
 .para23{
     position: absolute;
     top: 400px;
-    right: 840px;
+    right: 760px;
 }
 .imagemm3{
     position: absolute;
@@ -610,6 +610,11 @@ h3.my-profession
     top: 450px;
     right: 8px;
     border-radius: 5%;
+}
+.para24{
+    position: absolute;
+    left: 600px;
+    top: 400px;
 }
 video{
     position: absolute;
